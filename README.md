@@ -18,9 +18,9 @@ The hardest issue was handling incorrect request mappings and JSON binding error
 This was fixed by correcting path variable syntax, using the @RequestBody annotation properly, and adding a no-args constructor using Lombok.
 ## 4. Output Screenshots
 ### Get All Books
-![Get All Books](screenshot/getAllBook.png)
+![Get All Books](screenshots/getAllBook.png)
 ### Add Book
-![Add Book](screenshot/addbook.png)
+![Add Book](screenshots/addbook.png)
 # 5. Future Improvements
 If I had 2 more days, I would:
 Add validation to prevent duplicate book IDs
